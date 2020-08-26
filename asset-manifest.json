@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/yuanyang7/where_is_meow_ar_game/static/css/main.5f361e03.chunk.css",
-    "main.js": "/yuanyang7/where_is_meow_ar_game/static/js/main.293e560b.chunk.js",
-    "main.js.map": "/yuanyang7/where_is_meow_ar_game/static/js/main.293e560b.chunk.js.map",
-    "runtime-main.js": "/yuanyang7/where_is_meow_ar_game/static/js/runtime-main.c85f2beb.js",
-    "runtime-main.js.map": "/yuanyang7/where_is_meow_ar_game/static/js/runtime-main.c85f2beb.js.map",
-    "static/js/2.80482b71.chunk.js": "/yuanyang7/where_is_meow_ar_game/static/js/2.80482b71.chunk.js",
-    "static/js/2.80482b71.chunk.js.map": "/yuanyang7/where_is_meow_ar_game/static/js/2.80482b71.chunk.js.map",
-    "index.html": "/yuanyang7/where_is_meow_ar_game/index.html",
-    "precache-manifest.022933d73a0465ef35937ea44d11ee14.js": "/yuanyang7/where_is_meow_ar_game/precache-manifest.022933d73a0465ef35937ea44d11ee14.js",
-    "service-worker.js": "/yuanyang7/where_is_meow_ar_game/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/yuanyang7/where_is_meow_ar_game/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.80482b71.chunk.js.LICENSE.txt": "/yuanyang7/where_is_meow_ar_game/static/js/2.80482b71.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/yuanyang7/where_is_meow_ar_game/static/media/logo.5d5d9eef.svg"
+    "main.css": "/where_is_meow_ar_game/static/css/main.5f361e03.chunk.css",
+    "main.js": "/where_is_meow_ar_game/static/js/main.de731f6c.chunk.js",
+    "main.js.map": "/where_is_meow_ar_game/static/js/main.de731f6c.chunk.js.map",
+    "runtime-main.js": "/where_is_meow_ar_game/static/js/runtime-main.bba71d67.js",
+    "runtime-main.js.map": "/where_is_meow_ar_game/static/js/runtime-main.bba71d67.js.map",
+    "static/js/2.80482b71.chunk.js": "/where_is_meow_ar_game/static/js/2.80482b71.chunk.js",
+    "static/js/2.80482b71.chunk.js.map": "/where_is_meow_ar_game/static/js/2.80482b71.chunk.js.map",
+    "index.html": "/where_is_meow_ar_game/index.html",
+    "precache-manifest.91127c05b62fd8d7f53f88f297bddb58.js": "/where_is_meow_ar_game/precache-manifest.91127c05b62fd8d7f53f88f297bddb58.js",
+    "service-worker.js": "/where_is_meow_ar_game/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/where_is_meow_ar_game/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.80482b71.chunk.js.LICENSE.txt": "/where_is_meow_ar_game/static/js/2.80482b71.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/where_is_meow_ar_game/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c85f2beb.js",
+    "static/js/runtime-main.bba71d67.js",
     "static/js/2.80482b71.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.293e560b.chunk.js"
+    "static/js/main.de731f6c.chunk.js"
   ]
 }
